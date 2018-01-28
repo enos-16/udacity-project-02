@@ -1,1 +1,40 @@
 /* add your CSS here */
+html {
+  margin: 0;
+  padding: 0;
+  color: white;
+  font-size: 16;
+  font-family: 'Open Sans', sans-serif;
+}
+
+h3 {
+  display: inline-block;
+  padding-left: 0.25rem;
+}
+
+.card {
+  max-width: 300px;
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: 8px solid black;
+  box-shadow: 5px 5px lightgrey;
+  background-image: url('textured-background.jpg');
+}
+
+.dog-image {
+  width: 300px;
+  padding: 0.5rem 0rem;
+}
+
+.interesting {
+  font-style: italic;
+}
+
+.text-box {
+  width: 300px;
+  border: 1px solid black;
+}
+
+.label {
+  font-weight: bold;
+}
