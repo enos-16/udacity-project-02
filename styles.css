@@ -14,6 +14,7 @@ html {
   border: 8px solid dimgrey;
   box-shadow: 5px 5px lightgrey;
   background-image: url('textured-background.jpg');
+  background-position: center;
 }
 
 .dog-image {
